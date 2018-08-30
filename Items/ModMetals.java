@@ -1,7 +1,7 @@
-package com.GargatheOro.Items;
+package com.LichlandDevs.Items;
 
-import com.GargatheOro.CoreTabs.ModTabs;
-import com.GargatheOro.LichlandCore.RefStrings;
+import com.LichlandDevs.CoreTabs.ModTabs;
+import com.LichlandDevs.LichlandCore.RefStrings;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.item.Item;

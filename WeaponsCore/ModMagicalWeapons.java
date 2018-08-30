@@ -1,4 +1,4 @@
-package com.GargatheOro.WeaponsCore;
+package com.LichlandDevs.WeaponsCore;
 
 //import com.GargatheOro.WeaponsMagical.DeathScythe;
 //import com.GargatheOro.WeaponsMagical.FertilityStaff;

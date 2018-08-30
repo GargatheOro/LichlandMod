@@ -1,4 +1,4 @@
-package com.GargatheOro.Crafting;
+package com.LichlandDevs.Crafting;
 
 public class MetallicCraftingManager {
 	public static void Main(){

@@ -1,4 +1,4 @@
-package com.GargatheOro.MetalBlocks;
+package com.LichlandDevs.MetalBlocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

@@ -1,4 +1,4 @@
-package com.GargatheOro.LichlandCore;
+package com.LichlandDevs.LichlandCore;
 
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.EntityPlayer;

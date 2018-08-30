@@ -1,8 +1,8 @@
-package com.GargatheOro.LichlandCore;
+package com.LichlandDevs.LichlandCore;
 
 import java.util.Random;
 
-import com.GargatheOro.Blocks.ModBlocks;
+import com.LichlandDevs.Blocks.ModBlocks;
 
 import cpw.mods.fml.common.IWorldGenerator;
 import net.minecraft.block.Block;

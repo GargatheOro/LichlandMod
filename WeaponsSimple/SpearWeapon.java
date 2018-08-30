@@ -1,7 +1,7 @@
-package com.GargatheOro.WeaponsSimple;
+package com.LichlandDevs.WeaponsSimple;
 
-import com.GargatheOro.WeaponsCore.IAttackSpeed;
-import com.GargatheOro.WeaponsCore.IExtendedReach;
+import com.LichlandDevs.WeaponsCore.IAttackSpeed;
+import com.LichlandDevs.WeaponsCore.IExtendedReach;
 
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.item.ItemStack;

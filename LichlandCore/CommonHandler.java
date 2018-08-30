@@ -1,8 +1,8 @@
-package com.GargatheOro.LichlandCore;
+package com.LichlandDevs.LichlandCore;
 
-import com.GargatheOro.WeaponsCore.IAttackSpeed;
-import com.GargatheOro.WeaponsCore.IShortenedReach;
-import com.GargatheOro.WeaponsCore.ModWeapons;
+import com.LichlandDevs.WeaponsCore.IAttackSpeed;
+import com.LichlandDevs.WeaponsCore.IShortenedReach;
+import com.LichlandDevs.WeaponsCore.ModWeapons;
 
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import cpw.mods.fml.common.gameevent.TickEvent.PlayerTickEvent;

@@ -1,4 +1,4 @@
-package com.GargatheOro.LichlandCore;
+package com.LichlandDevs.LichlandCore;
 
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;

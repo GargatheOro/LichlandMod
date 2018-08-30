@@ -1,6 +1,6 @@
-package com.GargatheOro.CoreTabs;
+package com.LichlandDevs.CoreTabs;
 
-import com.GargatheOro.MetalBlocks.ModMetalBlocks;
+import com.LichlandDevs.MetalBlocks.ModMetalBlocks;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;

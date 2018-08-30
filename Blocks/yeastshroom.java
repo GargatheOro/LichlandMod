@@ -1,4 +1,4 @@
-package com.GargatheOro.Blocks;
+package com.LichlandDevs.Blocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockMushroom;

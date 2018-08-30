@@ -1,4 +1,4 @@
-package com.GargatheOro.Items;
+package com.LichlandDevs.Items;
 
 import net.minecraft.item.Item;
 

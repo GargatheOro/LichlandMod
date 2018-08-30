@@ -1,4 +1,4 @@
-package com.GargatheOro.Tools;
+package com.LichlandDevs.Tools;
 
 import net.minecraft.item.Item.ToolMaterial;
 import net.minecraftforge.common.util.EnumHelper;

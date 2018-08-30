@@ -1,6 +1,6 @@
-package com.GargatheOro.LichlandCore;
+package com.LichlandDevs.LichlandCore;
 
-import com.GargatheOro.WeaponsCore.IExtendedReach;
+import com.LichlandDevs.WeaponsCore.IExtendedReach;
 
 import cpw.mods.fml.common.network.ByteBufUtils;
 import cpw.mods.fml.common.network.simpleimpl.IMessage;

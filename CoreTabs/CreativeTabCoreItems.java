@@ -1,7 +1,6 @@
-package com.GargatheOro.CoreTabs;
+package com.LichlandDevs.CoreTabs;
 
-import com.GargatheOro.Items.ModItems;
-import com.GargatheOro.Items.ModMetals;
+import com.LichlandDevs.WeaponsCore.ModWeapons;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
@@ -14,6 +13,6 @@ public class CreativeTabCoreItems extends CreativeTabs {
 
 	@Override
 	public Item getTabIconItem() {
-		return ModItems.lbag;
+		return ModWeapons.practiceflail;
 	}
 }

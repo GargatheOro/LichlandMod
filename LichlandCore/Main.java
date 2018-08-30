@@ -1,18 +1,18 @@
-package com.GargatheOro.LichlandCore;
+package com.LichlandDevs.LichlandCore;
 
-import com.GargatheOro.Biomes.BiomeLogs;
-import com.GargatheOro.Biomes.BiomeSapling;
-import com.GargatheOro.Biomes.ItemLeafBlocks;
-import com.GargatheOro.Biomes.ItemLogBlocks;
-import com.GargatheOro.Blocks.ModBlocks;
-import com.GargatheOro.CoreTabs.ModTabs;
-import com.GargatheOro.Crafting.MetallicCraftingManager;
-import com.GargatheOro.Items.ModArmor;
-import com.GargatheOro.Items.ModItems;
-import com.GargatheOro.Items.ModMetals;
-import com.GargatheOro.MetalBlocks.ModMetalBlocks;
-import com.GargatheOro.Tools.ModTools;
-import com.GargatheOro.WeaponsCore.ModWeapons;
+import com.LichlandDevs.Biomes.BiomeLogs;
+import com.LichlandDevs.Biomes.BiomeSapling;
+import com.LichlandDevs.Biomes.ItemLeafBlocks;
+import com.LichlandDevs.Biomes.ItemLogBlocks;
+import com.LichlandDevs.Blocks.ModBlocks;
+import com.LichlandDevs.CoreTabs.ModTabs;
+import com.LichlandDevs.Crafting.MetallicCraftingManager;
+import com.LichlandDevs.Items.ModArmor;
+import com.LichlandDevs.Items.ModItems;
+import com.LichlandDevs.Items.ModMetals;
+import com.LichlandDevs.MetalBlocks.ModMetalBlocks;
+import com.LichlandDevs.Tools.ModTools;
+import com.LichlandDevs.WeaponsCore.ModWeapons;
 
 import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;

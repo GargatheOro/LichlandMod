@@ -1,9 +1,9 @@
-package com.GargatheOro.Crafting;
+package com.LichlandDevs.Crafting;
 
-import com.GargatheOro.Blocks.ModBlocks;
-import com.GargatheOro.Items.ModFood;
-import com.GargatheOro.Items.ModItems;
-import com.GargatheOro.Items.ModMetals;
+import com.LichlandDevs.Blocks.ModBlocks;
+import com.LichlandDevs.Items.ModFood;
+import com.LichlandDevs.Items.ModItems;
+import com.LichlandDevs.Items.ModMetals;
 
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.init.Items;

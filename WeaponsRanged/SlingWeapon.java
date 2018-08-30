@@ -1,4 +1,4 @@
-package com.GargatheOro.WeaponsRanged;
+package com.LichlandDevs.WeaponsRanged;
 
 public class SlingWeapon {
 

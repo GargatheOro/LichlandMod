@@ -1,4 +1,4 @@
-package com.GargatheOro.Items;
+package com.LichlandDevs.Items;
 
 public class ModArmor {
 	public static void Main(){

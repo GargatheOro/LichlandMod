@@ -1,6 +1,6 @@
-package com.GargatheOro.CoreTabs;
+package com.LichlandDevs.CoreTabs;
 
-import com.GargatheOro.Items.ModMetals;
+import com.LichlandDevs.Items.ModMetals;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;

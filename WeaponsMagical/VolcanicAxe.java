@@ -1,3 +1,4 @@
+package com.LichlandDevs.WeaponsMagical;
 /*package com.GargatheOro.WeaponsMagical;
 
 import com.GargatheOro.WeaponsCore.IAttackSpeed;

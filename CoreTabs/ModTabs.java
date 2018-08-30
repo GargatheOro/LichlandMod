@@ -1,4 +1,4 @@
-package com.GargatheOro.CoreTabs;
+package com.LichlandDevs.CoreTabs;
 
 import net.minecraft.creativetab.CreativeTabs;
 

@@ -1,13 +1,14 @@
-package com.GargatheOro.GUI;
+package com.LichlandDevs.GUI;
 
 
-import com.GargatheOro.LichlandCore.RefStrings;
+import static com.LichlandDevs.LichlandCore.ConfigurationHandler.*;
+
+import com.LichlandDevs.LichlandCore.RefStrings;
+
 import cpw.mods.fml.client.config.GuiConfig;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.common.config.ConfigElement;
 import net.minecraftforge.common.config.Configuration;
-
-import static com.GargatheOro.LichlandCore.ConfigurationHandler.*;
 
 public class ModGUIConfig extends GuiConfig {
 	public ModGUIConfig(GuiScreen guiScreen) {

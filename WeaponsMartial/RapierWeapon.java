@@ -1,6 +1,6 @@
-package com.GargatheOro.WeaponsMartial;
+package com.LichlandDevs.WeaponsMartial;
 
-import com.GargatheOro.WeaponsCore.IAttackSpeed;
+import com.LichlandDevs.WeaponsCore.IAttackSpeed;
 
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.item.ItemStack;

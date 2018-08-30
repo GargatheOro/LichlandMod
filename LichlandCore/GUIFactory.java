@@ -1,8 +1,8 @@
-package com.GargatheOro.LichlandCore;
+package com.LichlandDevs.LichlandCore;
 
 import java.util.Set;
 
-import com.GargatheOro.GUI.ModGUIConfig;
+import com.LichlandDevs.GUI.ModGUIConfig;
 
 import cpw.mods.fml.client.IModGuiFactory;
 import net.minecraft.client.Minecraft;

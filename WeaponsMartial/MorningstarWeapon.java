@@ -1,7 +1,7 @@
-package com.GargatheOro.WeaponsMartial;
+package com.LichlandDevs.WeaponsMartial;
 
-import com.GargatheOro.WeaponsCore.IAttackSpeed;
-import com.GargatheOro.WeaponsCore.IShortenedReach;
+import com.LichlandDevs.WeaponsCore.IAttackSpeed;
+import com.LichlandDevs.WeaponsCore.IShortenedReach;
 
 import net.minecraft.item.ItemSword;
 

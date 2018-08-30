@@ -1,4 +1,4 @@
-package com.GargatheOro.LichlandCore;
+package com.LichlandDevs.LichlandCore;
 
 import java.util.List;
 
